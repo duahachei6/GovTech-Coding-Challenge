@@ -1,3 +1,4 @@
+# Employee ID generator
 This program generates ID's for employees using the first three letters of their first name followed by three digits
 Since only the first three letters are used, there bound to be multiple employees with the same three letters.
 So we use the trailing digits to distinguish the IDs. The trailing digits starts with 005.
