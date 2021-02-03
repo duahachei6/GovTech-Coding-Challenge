@@ -95,7 +95,7 @@ class ID
 		}
 
 		else {
-			String amountOfZeros = printZeros(maxZeros - numberLength);
+			String amountOfZeros = printZeros(difference);
 			resultNum = amountOfZeros + number;
 		}
 
